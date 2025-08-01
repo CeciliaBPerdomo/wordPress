@@ -1,3 +1,5 @@
+![Cecilia Perdomo](image.png)
+
 # WordPress
 
 ## 🪂​ Temario
